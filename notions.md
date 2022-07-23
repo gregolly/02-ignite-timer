@@ -7,3 +7,5 @@ useEffect e um hook usado para monitoramento e disparado de eventos na aplicacao
 Prop Drilling: acontece quando temos muitas propriedas para comunicaco para a comunicao entre os components
 
 Context api permite compartilhar informacoes entra varios components ao mesmo tempo
+
+When we are using context api we need and change the state of a data in react, we need create a state in the father component
