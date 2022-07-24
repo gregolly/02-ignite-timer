@@ -9,3 +9,5 @@ Prop Drilling: acontece quando temos muitas propriedas para comunicaco para a co
 Context api permite compartilhar informacoes entra varios components ao mesmo tempo
 
 When we are using context api we need and change the state of a data in react, we need create a state in the father component
+
+useReducer: generally we will prefer use the reducer when i we need save complexity informations and when we want change this informations
